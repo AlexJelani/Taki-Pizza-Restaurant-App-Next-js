@@ -26342,7 +26342,5 @@
 /node_modules/zustand/vanilla.js
 /node_modules/.package-lock.json
 /data/menuData.jsx
-/pages/_app.js
 /pages/CartPage.jsx
-/pages/index.jsx
 /.next/cache/webpack/client-development/10.pack
