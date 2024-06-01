@@ -12,7 +12,7 @@ function Main() {
             <hr className="w-1/2 mx-auto h-0.5 bg-white mb-2"></hr>
             <p className='text-5xl md:text-7xl xl:text-8xl 2xl:text-9xl font-bold hover:scale-110 duration-200'>BEST PIZZA</p>
             <hr className="w-1/2 mx-auto h-0.5 bg-white"></hr>
-            <p className='text-3xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-4 hover:scale-110 duration-200'>ORDER NOW</p>
+            <p className='text-2xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-4 hover:scale-110 duration-200'>今すぐ注文をお願いします！</p>
             <hr className="w-1/2 mx-auto h-0.5 bg-white"></hr>
             <p className='text-3xl md:text-5xl xl:text-6xl 2xl:text-7xl font-bold mt-4 hover:scale-110 duration-200'>090-1862-1728</p>
             <hr className="w-1/2 mx-auto h-0.5 bg-white md:mb-10"></hr>
