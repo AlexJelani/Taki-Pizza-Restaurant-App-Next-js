@@ -13,8 +13,8 @@
   },
   {
     "id": 2,
-    "title": "chicken avacado",
-    "price": "￥900",
+    "title": "チケンアボカド",
+    "price": "￥1200",
     "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
     "category": "pizzas",
     "image": "/img/newtakimenu/p2chickenavacado.png",
@@ -25,8 +25,8 @@
   },
   {
     "id": 3,
-    "title": "ebi",
-    "price": "￥900",
+    "title": "エビ",
+    "price": "￥1400",
     "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
     "category": "pizzas",
     "image": "/img/newtakimenu/p3ebi.png",
@@ -37,8 +37,8 @@
   },
   {
     "id": 4,
-    "title": "p4pepporoni",
-    "price": "￥900",
+    "title": "ペパロニ",
+    "price": "￥950",
     "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
     "category": "pizzas",
     "image": "/img/newtakimenu/p4pepporoni.png",
@@ -49,8 +49,8 @@
   },
   {
     "id": 5,
-    "title": "vegetarian",
-    "price": "￥950",
+    "title": "ベジタリアン ビーガン",
+    "price": "￥1100",
     "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
     "category": "pizzas",
     "image": "/img/newtakimenu/p5vegetarian.png",
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "title": "パストラミピザ",
+    "title": "ミートラバー",
     "price": "￥1200",
     "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
     "category": "pizzas",

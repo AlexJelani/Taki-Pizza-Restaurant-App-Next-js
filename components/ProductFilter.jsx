@@ -15,7 +15,7 @@ export default function ProductFilter() {
     return (
         <div className="bg-white min-h-screen " id='menu' >
             <div className="container mx-auto pt-5 pb-10" >
-                <h1 className="text-3xl font-bold mb-5 " >Taki Menu</h1>
+                <h1 className="text-3xl font-bold mb-5 " >TAKI Menu</h1>
                 <div className="flex justify-center mb-5 space-x-3">
                     <button
                         className="bg-red-500 text-white px-4 py-2 rounded-md"
@@ -56,7 +56,7 @@ export default function ProductFilter() {
                                    className="card-img-top img-fluid object-fill p-3"
                                    width={200}
                                    height={200}
-                                   object-fit="contain"
+                                   objectFit="contain"
                                    priority={true}
                                    alt="..." />
                             <div className="card-body">
